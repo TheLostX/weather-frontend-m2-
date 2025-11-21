@@ -15,4 +15,4 @@ Proyecto frontend MVP para una aplicación de clima.
 3. Para volver a la página de inicio, presionar volver o inicio en la página de detalle.
 
 ## Link al repositorio
-    TODO
+    https://github.com/TheLostX/weather-frontend-m2-
