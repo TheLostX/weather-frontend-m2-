@@ -1,0 +1,16 @@
+/* Estilos mínimos para complementar Bootstrap */
+:root {
+  --alto-card: 160px;
+}
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.card-clima-icon {
+  font-size: 2.4rem;
+  line-height: 1;
+}
+.card-temperatura {
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+@media (max-width:420px){
+  .card-clima-icon { font-size: 2rem; }
+}
